@@ -1,0 +1,1 @@
+for /r %x in (*.png) do ren "%x" Image.png

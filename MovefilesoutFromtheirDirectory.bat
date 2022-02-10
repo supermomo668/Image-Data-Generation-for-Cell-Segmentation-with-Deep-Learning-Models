@@ -1,0 +1,1 @@
+FOR /R "C:\Users\mymmp\OneDrive\Notes\OBI\CV-Images\Image Functions & Tutorials\ImageBreaker\CellCropper_Output\OriginalImages" %i IN (*.png) DO MOVE "%i" "C:\Users\mymmp\OneDrive\Notes\OBI\CV-Images\Image Functions & Tutorials\ImageBreaker\CellCropper_Output\Images"
