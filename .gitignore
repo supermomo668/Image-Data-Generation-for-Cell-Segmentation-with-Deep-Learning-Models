@@ -1,9 +1,9 @@
 # Custom 
 
-1.CellSeg_CV/results/*
-2.ImageBreaker/results-tiles/*
-3.Cell_Cropper/CellCropper_Output/*
-Tutorial_examples/*
+# 1.CellSeg_CV/results/*
+# 2.ImageBreaker/results-tiles/*
+# 3.Cell_Cropper/CellCropper_Output/*
+# Tutorial_examples/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
